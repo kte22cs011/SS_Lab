@@ -1,0 +1,9 @@
+PGM1    START   1000
+*       LDA     ALPHA
+*       MUL     BETA
+*       STA     GAMMA
+ALPHA   WORD    2
+ALPHA1   WORD    4
+BETA    WORD    4
+GAMMA   WORD    1
+*       END
